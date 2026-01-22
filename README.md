@@ -3,6 +3,8 @@
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/) 
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-orange)](https://streamlit.io/)
 
+## Hey, I am Indrani Saha, CSE student of Academy Of Technology build my dream project on my all time favourite TV show TMKOC.
+
 ## Overview
 **TMKOC-Suggester** is a **recommendation system for the popular Indian TV show *Taarak Mehta Ka Ooltah Chashmah (TMKOC)***.  
 It helps fans discover episodes, jokes, or characters based on their preferences by leveraging **data-driven techniques**, improving engagement and making content exploration fun and personalized.
@@ -53,7 +55,7 @@ It helps fans discover episodes, jokes, or characters based on their preferences
 
 ## How to Use
 
-1. **Clone the repository**
+1.**Clone the repository**
    git clone <repository_url>
    cd TMKOC-Suggester
    
